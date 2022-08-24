@@ -1,0 +1,3 @@
+echo "print hello world"
+echo " ls -ltr"
+echo " print all even numbers"
